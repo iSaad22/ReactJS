@@ -1,0 +1,94 @@
+body{
+  background-color: #9266ff;
+}
+.App{
+  background-color: #3f3160;
+  min-height:500px;
+  width: 400px;
+  margin: 40px auto;
+}
+
+#to-do-list input{
+  background-color: rgba(27, 112, 137, 1);
+  border: 0; 
+  color: #fff;
+  width: 200px;
+  height: 50px;
+  margin: 20px;
+  padding: 0 20px;
+  font-size: 18px;
+  border-radius: 10px;
+}
+#to-do-list input::placeholder{
+  color: rgba(255,255,255,0.5);
+}
+#to-do-list input:focus{
+  outline: none;
+}
+#to-do-list button{
+  height: 50px;
+  width: 80px;
+  border-radius: 5px;
+  border: 0;
+  background-color:green;
+  color:white; 
+  cursor: pointer;
+}
+#to-do-list button:focus{
+  outline: none;
+}
+
+.list{
+ background-color:pink;
+  color:black;
+  width:300px;
+  height: 50px;
+  margin: 20px auto;
+  border-radius:10px;
+}
+
+.list p{
+  padding: 15px;
+  position:relative;
+}
+
+.list p .delbtn{
+  position:absolute;
+  right:10px;
+  top:10px;
+  background-color:red;
+  color:black;
+  border-radius:5px;
+  border: 0;
+  padding:5px;
+  cursor:pointer;
+  color:white;
+  outline: none;
+}
+
+.list p .editbtn{
+  outline: none;
+  position:absolute;
+  right:70px;
+  top:10px;
+  background-color:grey;
+  color:black;
+  border-radius:5px;
+  border: 0;
+  padding:5px;
+  color:white;
+  cursor:pointer;
+}
+
+.delAll{
+  height: 50px;
+  width: 80px;
+  border-radius: 5px;
+  border: 0;
+  color:white;
+  margin-left:40%;
+  outline: none;
+  background-color: red; 
+  cursor: pointer;
+}
+

@@ -1,0 +1,12 @@
+[1207/100106.732:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\saada\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\635af142-bc81-42c9-a634-fa383f884b67: The system cannot find the path specified. (0x3)
+[1207/100106.750:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1207/102130.478:ERROR:process_info.cc(359)] UncheckedAllocate
+[1207/102130.726:ERROR:process_info.cc(359)] UncheckedAllocate
+[1207/102130.849:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\saada\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\e904d15f-8899-4f28-9502-f0b880bee2ec: The system cannot find the path specified. (0x3)
+[1207/102134.432:ERROR:process_info.cc(359)] UncheckedAllocate
+[1207/102135.995:ERROR:process_info.cc(359)] UncheckedAllocate
+[1207/112007.484:ERROR:process_info.cc(359)] UncheckedAllocate
+[1207/112156.876:ERROR:process_info.cc(359)] UncheckedAllocate
+[1207/112156.900:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\saada\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\c61afa3b-dc00-408d-a6c0-c239a7320539: The system cannot find the path specified. (0x3)
+[1207/112157.645:ERROR:process_info.cc(359)] UncheckedAllocate
+[1207/112347.452:ERROR:process_info.cc(359)] UncheckedAllocate
